@@ -3,3 +3,4 @@
 3. https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/shell
 4. https://www.codewars.com/kata/55225023e1be1ec8bc000390/train/shell
 5. https://www.codewars.com/kata/5763bb0af716cad8fb000580/train/shell
+6. https://www.codewars.com/kata/5b853229cfde412a470000d0/train/shell
