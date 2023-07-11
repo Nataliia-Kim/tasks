@@ -1,0 +1,10 @@
+# TODO: last_chair, the argument is $1
+
+# Read the number of chairs from the user
+N=$1
+
+# Calculate the last patient's chair number
+last_chair=$((N - 1))
+
+# Display the result
+echo $last_chair
