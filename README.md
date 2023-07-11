@@ -7,3 +7,4 @@
 7. https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/shell
 8. https://www.codewars.com/kata/55a70521798b14d4750000a4/train/shell
 9. https://www.codewars.com/kata/55cbc3586671f6aa070000fb/train/powershell
+10. https://www.codewars.com/kata/523b4ff7adca849afe000035/train/shell
