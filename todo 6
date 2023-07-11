@@ -1,0 +1,16 @@
+#!/bin/sh
+
+dad_years_old=$1
+son_years_old=$2
+# Calculate the age difference between the father and the son
+age_difference=$((dad_years_old - son_years_old))
+
+# Calculate the number of years ago or in the future when the father was/will be twice as old as the son
+twice_age_years=$((age_difference - son_years_old))
+
+# Take the absolute value to ensure the result is always greater or equal to 0
+twice_age_years=${twice_age_years#-}
+
+echo $twice_age_years
+
+exit
