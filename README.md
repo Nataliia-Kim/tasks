@@ -5,3 +5,4 @@
 5. https://www.codewars.com/kata/5763bb0af716cad8fb000580/train/shell
 6. https://www.codewars.com/kata/5b853229cfde412a470000d0/train/shell
 7. https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/shell
+8. https://www.codewars.com/kata/55a70521798b14d4750000a4/train/shell
