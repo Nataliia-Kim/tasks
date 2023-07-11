@@ -1,0 +1,6 @@
+#!/bin/bash
+# your code here
+number=$1
+opposite=$((-$number))
+
+echo $opposite
