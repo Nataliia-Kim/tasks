@@ -1,0 +1,5 @@
+a=$1
+b=$2
+c=$3
+# your code here
+printf "$((a + b + c))\n $(((a + b)*c))\n $((a * (b + c)))\n $((a * b * c))" | sort -n | tail -n 1
